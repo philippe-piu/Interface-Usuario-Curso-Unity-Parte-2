@@ -48,10 +48,10 @@
 <h2>Exemplo Visual</h2>
 
 <h3>Antes</h3>
-<img src="IMG/Img.png" alt="Imagem antes">
+<img src="IMG/Img.PNG" alt="Imagem antes">
 
 <h3>Depois</h3>
-<img src="IMG/Image.png" alt="Imagem depois">
+<img src="IMG/Image.PNG" alt="Imagem depois">
 
 <hr>
 
@@ -78,7 +78,7 @@
 <h2>Exemplo Visual de Mudança na Vida</h2>
 
 <h3>Vida Cheia</h3>
-<img src="IMG/telaNormal.png" alt="Vida Cheia">
+<img src="IMG/telaNormal.PNG" alt="Vida Cheia">
 
 <h3>Diminuição de Vida</h3>
-<img src="IMG/TelaMudada.png" alt="Diminuição de Vida">
+<img src="IMG/TelaMudada.PNG" alt="Diminuição de Vida">
